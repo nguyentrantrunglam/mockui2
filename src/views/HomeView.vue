@@ -1001,7 +1001,7 @@ p {
   font-weight: 600;
   font-size: 14px;
   line-height: 24px;
-  color: #0E489B;
+  color: #0e489b;
   text-align: left;
   cursor: pointer;
 }

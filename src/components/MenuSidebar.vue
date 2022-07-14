@@ -65,8 +65,8 @@ export default {
 }
 
 .category-item:hover {
-    background: darkcyan;
-    color: #fff
+    background: #e0efef;
+    color: #148686
 }
 
 .active {
@@ -91,7 +91,7 @@ export default {
     font-size: 14px;
     font-weight: 600;
     line-height: 24px;
-    margin-top: 11px;
+    margin-top: 8px;
     margin-right: 8px;
 
 }
@@ -116,7 +116,7 @@ export default {
     font-size: 12px;
     font-weight: 600;
     line-height: 18px;
-    margin-top: 14px;
+    margin-top: 11px;
     background: #E72511;
     color: white;
     padding: 0px 6px 0px 6px;

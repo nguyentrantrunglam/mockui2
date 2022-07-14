@@ -2,34 +2,34 @@
     <div>
         <div class="navbar-left">
             <div class="logo">
-                <img class="logo-img" src="../assets/logo.png" />
+                <img class="logo-img" src="../assets/logo.svg" />
             </div>
             <ul class="navbar-items">
 
                 <router-link to="/">
                     <li class="navbar-item">
-                        <img class="navbar-item-img" src="../assets/home-alt.png" />
+                        <img class="navbar-item-img" src="../assets/home-alt.svg" />
                         <p class="navbar-item-title"> Home </p>
                     </li>
                 </router-link>
 
                 <router-link to="/post">
                     <li class="navbar-item">
-                        <img class="navbar-item-img" src="../assets/paper-plane.png" />
+                        <img class="navbar-item-img" src="../assets/paper-plane.svg" />
                         <p class="navbar-item-title"> Post </p>
                     </li>
                 </router-link>
 
                 <router-link to="/activity">
                     <li class="navbar-item">
-                        <img class="navbar-item-img" src="../assets/heart.png" />
+                        <img class="navbar-item-img" src="../assets/heart.svg" />
                         <p class="navbar-item-title"> Activity </p>
                     </li>
                 </router-link>
 
                 <router-link to="/bookmark">
                     <li class="navbar-item">
-                        <img class="navbar-item-img" src="../assets/bookmark.png" />
+                        <img class="navbar-item-img" src="../assets/bookmark.svg" />
                         <p class="navbar-item-title"> Bookmark </p>
                     </li>
                 </router-link>
@@ -40,7 +40,7 @@
         </div>
         <div class="searchBar">
             <label for="inpSearch" class="searchBar-form">
-                <img class="searchBar-form-img" src="../assets/search.png" />
+                <img class="searchBar-form-img" src="../assets/search.svg" />
                 <div class="searchBar-form-input">
                     <input id="inpSearch" placeholder="Search will seed post" type="text" />
                 </div>
@@ -48,7 +48,7 @@
         </div>
         <div class="user">
             <div class="user-notification">
-                <img src="../assets/bell.png" alt="bell" />
+                <img src="../assets/bell.svg" alt="bell" />
                 <div class="reddot"></div>
             </div>
             <div class="user-info">
@@ -57,15 +57,15 @@
                     alt="avatar">
                 <p class="user-info-name">Trung Lâm</p>
                 <div @click="clickUserInfo" class="dropDown">
-                    <img src="../assets/caret-down.png" alt="">
+                    <img src="../assets/caret-down.svg" alt="">
                 </div>
                 <div class="dropDown-list">
                     <div class="dropDown-list-item">
-                        <img class="dropDown-list-item-img" src="../assets/user-circle.png" />
+                        <img class="dropDown-list-item-img" src="../assets/user-circle.svg" />
                         <p class="dropDown-list-item-title">Profile</p>
                     </div>
                     <div class="dropDown-list-item">
-                        <img class="dropDown-list-item-img" src="../assets/sign-out.png" />
+                        <img class="dropDown-list-item-img" src="../assets/sign-out.svg" />
                         <p class="dropDown-list-item-title">Log out</p>
                     </div>
                 </div>

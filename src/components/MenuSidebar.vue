@@ -2,14 +2,14 @@
     <div>
         <div class="category">
             <div class="category-item">
-                <img class="category-item-img" src="../assets/siren-on.png" />
+                <img class="category-item-img" src="../assets/siren-on.svg" />
                 <div class="category-item-text">
                     <p class="category-item-title">News</p>
                     <p class="category-item-number">12</p>
                 </div>
             </div>
             <div class="category-item active">
-                <img class="category-item-img" src="../assets/chalkboard.png" />
+                <img class="category-item-img" src="../assets/chalkboard.svg" />
                 <div class="category-item-text">
                     <p class="category-item-title">Technology</p>
                     <p class="category-item-number">12</p>
@@ -17,7 +17,7 @@
             </div>
             <div class="category-item">
                 <div class="category-item-img">
-                    <img src="../assets/play.png" />
+                    <img src="../assets/play.svg" />
                 </div>
                 <div class="category-item-text">
                     <p class="category-item-title">Music</p>
@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="category-item">
-                <img class="category-item-img" src="../assets/comment-alt1.png" />
+                <img class="category-item-img" src="../assets/comment-alt.svg" />
                 <div class="category-item-text">
                     <p class="category-item-title">Feedback</p>
                     <p class="category-item-number">99+</p>
@@ -34,7 +34,7 @@
         </div>
         <div class="category">
             <div class="category-item">
-                <img class="category-item-img" src="../assets/clipboard-check.png" />
+                <img class="category-item-img" src="../assets/clipboard-check.svg" />
                 <div class="category-item-text">
                     <p class="category-item-title">Survey</p>
                     <p class="category-item-number">12</p>

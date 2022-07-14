@@ -89,7 +89,7 @@ export default {
 .category-item-title {
     font-family: Roboto;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 24px;
     margin-top: 11px;
     margin-right: 8px;
